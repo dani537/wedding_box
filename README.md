@@ -8,15 +8,19 @@ Ens van venir moltes idees relacionades amb les màquines retro i alguns jocs (*
 I com fer-ho? La programació teniem clar que la fariem amb **Python** amb la llibreria **Pygame** i per correr el joc ho fariem funcionar sobre una Raspberry Pi 4 (després de setmanes cercant una... la crisi dels microxips va convertir en un repte trobar una), però d'electrònica anavem justos... i això va fer que haguessim d'estudiar com funcionaven els connectors **GPIO** i com programar-los per fer interactuar el joc amb els polsadors. Tocava estudiar una mica 📚
 
 <p align="center">
-  <img src="https://i.postimg.cc/Fs4dvJ4m/01.jpg" alt="Jana estudiant" width="300">
+  <img src="https://i.postimg.cc/Fs4dvJ4m/01.jpg" alt="Jana estudiant" width="200">
 </p>
 
 Fet el codi, tocava ficar-se mans a l'obra, i vam pensar en una mena de caixa de fusta on es poguéssin instal·lar els polsadors i la pantalla per interactuar...
 
-
+<p align="center">
+  <img src="https://i.postimg.cc/x1hyKy7H/03.jpg" alt="Jana estudiant" width="200">
+</p>
 
 Per últim, vam dissenyar la resta d'ornamentació amb la que fem el projecte.
 
-
+<p align="center">
+  <img src="https://i.postimg.cc/d1LhnzyV/04.jpg" alt="Jana estudiant" width="200">
+</p>
 
 Esperem que pogueu gaudir de la festa i que aquest petit projecte us agradi ❤️
