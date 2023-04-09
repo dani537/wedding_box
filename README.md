@@ -7,7 +7,7 @@ Ens van venir moltes idees relacionades amb les màquines retro i alguns jocs (*
 
 I com fer-ho? La programació teniem clar que la fariem amb **Python** amb la llibreria **Pygame** i per correr el joc ho fariem funcionar sobre una Raspberry Pi 4 (després de setmanes cercant una... la crisi dels microxips va convertir en un repte trobar una), però d'electrònica anavem justos... i això va fer que haguessim d'estudiar com funcionaven els connectors **GPIO** i com programar-los per fer interactuar el joc amb els polsadors. Tocava estudiar una mica 📚
 
-![Texto alternativo]([URL de la imagen](https://drive.google.com/file/d/1-DTan0RM0lWGLGiByWAt6osGi33ZW4fU/view?usp=share_link))
+![Texto alternativo](https://doc-0g-00-docs.googleusercontent.com/docs/securesc/k3duou62gj8en4234jndri4gjarsghgm/stifuiu35e1ujhp7kguvrtsc06gjj685/1681083150000/11327179649347190245/16346950614636776736Z/1-DTan0RM0lWGLGiByWAt6osGi33ZW4fU?e=view&uuid=5cf74d2a-7feb-4072-ae41-06271fe44256&nonce=sscbsfgk52ol6&user=16346950614636776736Z&hash=pmpsbdfdegieffd8m9ccqqv43e0lvnt5)
 
 Fet el codi, tocava ficar-se mans a l'obra, i vam pensar en una mena de caixa de fusta on es poguéssin instal·lar els polsadors i la pantalla per interactuar...
 
