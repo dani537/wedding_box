@@ -1,0 +1,91 @@
+codi,nom,idioma,salutacio,salutacio2,id_taula,taula,musica,url_musica,mail,mp3_seconds
+13254,Jana,CAT,Benvinguda,La teva taula és:,1,How I met your mother,Estrella del Pop - El Pot Petit,estrella_del_pop,danielsanchez537@gmail.com,29
+15342,Tamara,CAT,Benvinguda,La teva taula és:,1,How I met your mother,I don't want to miss a thing - Aerosmith,aerosmith,danielsanchez537@gmail.com,45
+14523,Miguel Antonio,ES,Bienvenido,Tu mesa es:,1,How I met your mother,Mambo No. 5 - Lou Bega,mambo5,danielsanchez537@gmail.com,79
+24315,Nuri Val,CAT,Benvinguda,La teva taula és:,1,How I met your mother,Que bonito es querer - Manuel Carrasco,que_bonito_es_querer,danielsanchez537@gmail.com,74
+42351,Carla,CAT,Benvinguda,La teva taula és:,2,La casa de papel,Never Leave You - Lumidee,never_leave_you,danielsanchez537@gmail.com,63
+41352,Mohi,ES,Bienvenido,Tu mesa es:,2,La casa de papel,Papaoutai - Stromae,papaoutai,danielsanchez537@gmail.com,50
+35412,Mari Carmen,CAT,Benvinguda,La teva taula és:,9,Plats Bruts,My First My Last My Everything - Barry White,my_first_my_last_my_everything,danielsanchez537@gmail.com,59
+42135,Dani Sánchez,CAT,Benvingut,La teva taula és:,1,How I met your mother,Cara de Cul - Oques Grasses,cara_de_cul,danielsanchez537@gmail.com,41
+25413,Angelita,ES,Bienvenida,Tu mesa es:,1,How I met your mother,"September - Earth, Wind & Fire",september,danielsanchez537@gmail.com,56
+32451,José Luis,ES,Bienvenido,Tu mesa es:,1,How I met your mother,Y nos dieron las diez - Joaquin Sabina,y_nos_dieron_las_diez,danielsanchez537@gmail.com,37
+31425,Cristina Sánchez,ES,Benvinguda,La teva taula és:,4,Lost,Soledad - La Oreja de Van Gogh,soledad,danielsanchez537@gmail.com,44
+51432,Manuela,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,DESPECHA - Rosalia,despecha,danielsanchez537@gmail.com,45
+41253,Nuri Rodríguez,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,La Mordidita - Ricky Martin,mordidita,danielsanchez537@gmail.com,33
+53412,Chon,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,Session 53 - Shakira & Bizarrap,session_53,danielsanchez537@gmail.com,52
+41523,Toni Rodríguez,ES,Bienvenido,Tu mesa es:,10,Game of Thrones,Quedate a dormir - M-Clan,quedate_a_dormir,danielsanchez537@gmail.com,67
+54123,Eva,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,"Quevedo: Bzrp Music Sessions, Vol. 52",session_52,danielsanchez537@gmail.com,66
+21534,Rubén,CAT,Benvingut,La teva taula és:,10,Game of Thrones,Vivir Mi Vida - Marc Anthony,vivir_mi_vida,danielsanchez537@gmail.com,57
+24135,Maite,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,Despojame - Orishas,despojame,danielsanchez537@gmail.com,63
+15243,Judith Prats,CAT,Benvinguda,La teva taula és:,4,Lost,Saturday Night - Whigfield,saturday_night,danielsanchez537@gmail.com,67
+35124,Ivan,CAT,Benvingut,La teva taula és:,4,Lost,Elegante - Orishas,elegante,danielsanchez537@gmail.com,58
+42513,Leyre,CAT,Benvinguda,La teva taula és:,4,Lost,Todo de ti - Rauw Alejandro,todo_de_ti,danielsanchez537@gmail.com,51
+34251,Zaida,CAT,Benvinguda,La teva taula és:,4,Lost,Connectats - Buhos,connectats,danielsanchez537@gmail.com,76
+31524,Dani Ochando,CAT,Benvingut,La teva taula és:,4,Lost,Here2Play - Stay Homas,here2play,danielsanchez537@gmail.com,45
+53142,Ricardo,ES,Bienvenido,Tu mesa es:,10,Game of Thrones,Uptown Funk - Bruno Mars,uptown_funk,danielsanchez537@gmail.com,62
+43125,Yaimara,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,La Gozadera - Gente de Zona,la_gozadera,danielsanchez537@gmail.com,48
+25134,Hade,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,Mariposas - Aitana & Sangiovanni,mariposas,danielsanchez537@gmail.com,51
+13524,Sheila,ES,Bienvenida,Tu mesa es:,10,Game of Thrones,Envolver - Anitta,envolver,danielsanchez537@gmail.com,42
+14235,Óscar,ES,Bienvenido,Tu mesa es:,4,Lost,Feel so close - Calvin Harris,feel_so_close,danielsanchez537@gmail.com,55
+32415,Aroa,ES,Bienvenida,Tu mesa es:,4,Lost,Vida de Rico - Camilo,vida_de_rico,danielsanchez537@gmail.com,58
+32145,Cristina Sarió,CAT,Benvinguda,La teva taula és:,2,La casa de papel,Tobogan - ZOO,tobogan,danielsanchez537@gmail.com,43
+12543,Toni Ábalos,CAT,Benvingut,La teva taula és:,2,La casa de papel,Noches de boda - Joaquin Sabina,noches_de_boda,danielsanchez537@gmail.com,44
+25143,Álvaro,CAT,Benvingut,La teva taula és:,2,La casa de papel,Baby Shark,baby_shark,danielsanchez537@gmail.com,43
+54213,Marta,CAT,Benvinguda,La teva taula és:,2,La casa de papel,Your Song - Moulin Rouge,your_song,danielsanchez537@gmail.com,68
+54321,Oriol,CAT,Benvingut,La teva taula és:,2,La casa de papel,Virtuality Insanity - Jamiroquai,virtuality,danielsanchez537@gmail.com,63
+21345,Javier Sebastián,ES,Bienvenido,Tu mesa es:,2,La casa de papel,Muchachos - La Mosca,muchachos,danielsanchez537@gmail.com,58
+51324,Irènia,CAT,Benvinguda,La teva taula és:,3,Principe de Bel-Air,Azukita - Steve Aoki,azukita,danielsanchez537@gmail.com,48
+24513,Emilio,CAT,Bienvenido,Tu mesa es:,3,Principe de Bel-Air,Himno Sevilla - El Arrebato,sevilla,danielsanchez537@gmail.com,40
+23145,Cristina Rodríguez,CAT,Benvinguda,La teva taula és:,3,Principe de Bel-Air,Super Mario Bros Theme,mario_bros,danielsanchez537@gmail.com,23
+51423,Raúl,CAT,Benvingut,La teva taula és:,3,Principe de Bel-Air,Sonic Theme,sonic,danielsanchez537@gmail.com,28
+45321,Georgina,CAT,Benvinguda,La teva taula és:,3,Principe de Bel-Air,Lose Yourself - Eminem,8_miles,danielsanchez537@gmail.com,42
+12345,Víctor,ES,Bienvenido,Tu mesa es:,3,Principe de Bel-Air,Numb - Linkin Park,numb,danielsanchez537@gmail.com,62
+51234,Sandra Domper,CAT,Benvinguda,La teva taula és:,3,Principe de Bel-Air,Independent Women - Destiny's Child,independent_women,danielsanchez537@gmail.com,41
+32514,Carlos Alonso,ES,Bienvenido,Tu mesa es:,5,Dragon Ball,Opening - Bola de Drac Z,llum_foc_destruccio,danielsanchez537@gmail.com,48
+53241,Tania,ES,Bienvenida,Tu mesa es:,5,Dragon Ball,"Baila Conmigo - Dayvi, Victor Cardenas",baila_conmigo,danielsanchez537@gmail.com,48
+45312,Thiago,ES,Benvingut,La teva taula és:,5,Dragon Ball,Hakuna Matata,hakuna_matata,danielsanchez537@gmail.com,53
+12435,Raquel,ES,Bienvenida,Tu mesa es:,5,Dragon Ball,Complicated - Avril Lavigne,complicated,danielsanchez537@gmail.com,41
+34512,Pablo,ES,Bienvenido,Tu mesa es:,5,Dragon Ball,I want to break free - Queen,i_want_to_break_free,danielsanchez537@gmail.com,39
+23154,Lucas,ES,Bienvenido,Tu mesa es:,5,Dragon Ball,Busca lo mas vital,busca_lo_mas_vital,danielsanchez537@gmail.com,49
+24153,Sílvia,ES,Benvinguda,La teva taula és:,5,Dragon Ball,"Aura, la dinosaure - El Pot Petit",aura_dinosaure,danielsanchez537@gmail.com,58
+32154,Jordi Andújar,ES,Bienvenido,Tu mesa es:,5,Dragon Ball,Champions League Anthem,champions_league,danielsanchez537@gmail.com,66
+12534,Javi Rodríguez,ES,Bienvenido,Tu mesa es:,5,Dragon Ball,Viva la Vida - Coldplay,viva_la_vida,danielsanchez537@gmail.com,71
+43512,Laura,ES,Bienvenida,Tu mesa es:,5,Dragon Ball,Bam Bam - Camila Cabello,bam_bam,danielsanchez537@gmail.com,40
+42153,Esther,ES,Bienvenida,Tu mesa es:,6,Stranger Things,Wannabe - Spice Girls,wannabe,danielsanchez537@gmail.com,47
+54312,Jordi Peña,ES,Bienvenido,Tu mesa es:,6,Stranger Things,Mas Colao que el Colacao - La La Love You,mas_colao_que_el_colacao,danielsanchez537@gmail.com,39
+53124,Isaac,ES,Bienvenido,Tu mesa es:,6,Stranger Things,The Nights - Avicii,the_nights,danielsanchez537@gmail.com,64
+41532,Vanesa,ES,Bienvenida,Tu mesa es:,6,Stranger Things,Boig per tu - Sau,boig_per_tu,danielsanchez537@gmail.com,52
+31245,Leo,ES,Bienvenido,Tu mesa es:,6,Stranger Things,Hay un amigo en mi - Toy Story,toy_story,danielsanchez537@gmail.com,44
+35142,Toni Lebrón,ES,Bienvenido,Tu mesa es:,6,Stranger Things,Everybody - Backstreet Boys,everybody,danielsanchez537@gmail.com,40
+15234,Melania,ES,Bienvenida,Tu mesa es:,6,Stranger Things,Tacones Rojos - Sebastian Yatra,tacones_rojos,danielsanchez537@gmail.com,49
+15324,Agus,CAT,Benvingut,La teva taula és:,6,Stranger Things,Opening - Bola de Drac GT,dragon_gt,danielsanchez537@gmail.com,49
+21354,Sandra Madurell,CAT,Benvinguda,La teva taula és:,6,Stranger Things,Shape of You - Ed Sheraan,shape_of_you,danielsanchez537@gmail.com,41
+52143,Èric,CAT,Benvingut,La teva taula és:,6,Stranger Things,"Doraemon, El Gat Cosmic",doraemon,danielsanchez537@gmail.com,69
+23541,Ainoa,CAT,Benvinguda,La teva taula és:,6,Stranger Things,El Gall Ot - El Pot Petit,gall_ot,danielsanchez537@gmail.com,27
+42531,Borja,ES,Bienvenido,Tu mesa es:,7,Cobra Kai,Pan y Mantequilla - Efecto Pasillo,pan_y_mantequilla,danielsanchez537@gmail.com,51
+34521,Arrate,ES,Ongi etorri,Tu mesa es:,7,Cobra Kai,Sumendiak - Buhos,sumendiak,danielsanchez537@gmail.com,50
+54231,Carles Sàez,CAT,Benvingut,La teva taula és:,7,Cobra Kai,Coti x Coti - The Tyets,coti_x_coti,danielsanchez537@gmail.com,60
+31542,Isabel,CAT,Benvinguda,La teva taula és:,7,Cobra Kai,De l'1 al que - The Tyets,1_al_que,danielsanchez537@gmail.com,50
+51243,Luba,CAT,Benvinguda,La teva taula és:,7,Cobra Kai,Moves Like Jagger - Maroon 5,moves_like_jagger,danielsanchez537@gmail.com,53
+41325,Fran,CAT,Benvingut,La teva taula és:,7,Cobra Kai,Safe and sound - Capital Cities,safe_and_sound,danielsanchez537@gmail.com,57
+24531,Belén,ES,Bienvenida,Tu mesa es:,7,Cobra Kai,En el coche - Aitana,en_el_coche,danielsanchez537@gmail.com,45
+24351,Joan,ES,Benvingut,La teva taula és:,7,Cobra Kai,Tu Fas - Doctor Prats,tu_fas,danielsanchez537@gmail.com,53
+25431,Mariona,CAT,Benvinguda,La teva taula és:,7,Cobra Kai,Queda't Aixi - Joan Dausa,quedat_aixi,danielsanchez537@gmail.com,41
+34152,Sergi de Juan,CAT,Benvingut,La teva taula és:,7,Cobra Kai,Jo Soc Culer - Oscar Sainz,jo_soc_culer,danielsanchez537@gmail.com,56
+31254,Gabriel,CAT,Bienvenido,Tu mesa es:,9,Plats Bruts,El dia de la Victòria - Buhos,dia_victoria,danielsanchez537@gmail.com,46
+13425,Dolors,CAT,Benvinguda,La teva taula és:,9,Plats Bruts,Torno a ser jo - Oques Grasses,torno_a_ser_jo,danielsanchez537@gmail.com,64
+25341,Carlos Val,CAT,Benvingut,La teva taula és:,9,Plats Bruts,Rockstar - Nickelback,rockstar,danielsanchez537@gmail.com,48
+25314,Carlitos Val,CAT,Benvingut,La teva taula és:,9,Plats Bruts,This is me - The Greatest Showman,this_is_me,danielsanchez537@gmail.com,60
+13245,Paula,CAT,Benvinguda,La teva taula és:,9,Plats Bruts,Love Me Again - John Newman,love_me_again,danielsanchez537@gmail.com,69
+15423,Marc,CAT,Benvingut,La teva taula és:,9,Plats Bruts,Try - Pink,try,danielsanchez537@gmail.com,38
+42315,Carol,ES,Bienvenida,Tu mesa es:,8,The Simpsons,Nochentera - Vicco,nochentera,danielsanchez537@gmail.com,43
+31452,Salva,ES,Bienvenido,Tu mesa es:,8,The Simpsons,YMCA - Village People,ymca,danielsanchez537@gmail.com,68
+34125,Marina,ES,Bienvenida,Tu mesa es:,8,The Simpsons,Monsoon - Tokio Hotel,monsoon,danielsanchez537@gmail.com,59
+12453,Cristian,ES,Bienvenido,Tu mesa es:,8,The Simpsons,Pompeii - Bastille,pompeii,danielsanchez537@gmail.com,55
+21543,Miguel Gaminde,ES,Ongi etorri,Tu mesa es:,8,The Simpsons,About Damn Time - Lizzo,about_damn_time,danielsanchez537@gmail.com,45
+54132,Montse,ES,Bienvenida,Tu mesa es:,8,The Simpsons,U Can't Touch This - M.C. Hammer,cant_touch_this,danielsanchez537@gmail.com,61
+21435,Núria Antón,ES,Bienvenida,Tu mesa es:,8,The Simpsons,Call Me Maybe - Carly Rae Jepsen,call_me_maybe,danielsanchez537@gmail.com,42
+45132,Carles Martínez,ES,Benvingut,La teva taula és:,8,The Simpsons,Best Of You - Foo Fighters,best_of_you,danielsanchez537@gmail.com,46
+52341,Mireia,ES,Bienvenida,Tu mesa es:,4,Lost,Sexy and I Know It - LMFAO,sexy_lmfao,danielsanchez537@gmail.com,59
+14253,Dani,ES,Bienvenido,Tu mesa es:,4,Lost,Happy -Pharrell Williams,happy,danielsanchez537@gmail.com,51
+45231,Lucía,ES,Bienvenida,Tu mesa es:,4,Lost,Sorry - Justin Bieber,sorry,danielsanchez537@gmail.com,54
